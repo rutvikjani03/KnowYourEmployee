@@ -32,7 +32,7 @@ const Edit = () => {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:8000/api/getone/${id}`)
+      .get(`https://know-your-employee2.vercel.app/api/getone/${id}`)
       .then((response) => {
         setUser(response.data);
       })
