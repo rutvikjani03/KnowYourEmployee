@@ -131,7 +131,7 @@ const User = () => {
         </table>
         {showPopup && currentUser && (
           <div className="popup">
-            <div className="popup-inner">
+            <div className="popup-inner" id="user">
               <button onClick={closePopup}> &times; </button>
               <h3>Employee Details</h3>
               <table className="popup-table">
