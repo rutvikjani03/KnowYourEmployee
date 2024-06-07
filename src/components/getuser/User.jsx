@@ -15,7 +15,7 @@ const User = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await axios.get("http://localhost:8000/api/getall");
+      const response = await axios.get("https://know-your-employee2.vercel.app/api/getall");
       setUsers(response.data);
     };
 
@@ -33,7 +33,7 @@ const User = () => {
 
   const deleteUser = async (userId) => {
     await axios
-      .delete(`http://localhost:8000/api/delete/${userId}`)
+      .delete(`https://know-your-employee2.vercel.app/api/delete/${userId}`)
       .then((response) => {
         setUsers((prevUsers) =>
           prevUsers.filter((user) => user._id !== userId)

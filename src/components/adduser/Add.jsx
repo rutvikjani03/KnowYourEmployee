@@ -140,7 +140,7 @@ const Add = () => {
     if (validateForm()) {
       await axios
 
-        .post("http://localhost:8000/api/create", user)
+        .post("https://know-your-employee2.vercel.app/api/create", user)
 
         .then((response) => {
           toast.success("User Created Successfully!");

@@ -44,7 +44,7 @@ const Edit = () => {
   const submitForm = async (e) => {
     e.preventDefault();
     await axios
-      .put(`http://localhost:8000/api/update/${id}`, user)
+      .put(`https://know-your-employee2.vercel.app/api/update/${id}`, user)
       .then((response) => {
         toast.success("User Updated Successfully", {
           position: "top-right",
