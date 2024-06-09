@@ -305,8 +305,13 @@ body {
     font-size: 15px;
   }
 
+  #pop{
+    
+    margin-top: 2rem;
+  }
+
   #user{
-    margin-top: 180px;
+    margin-top: 30rem;
   }
 
   
