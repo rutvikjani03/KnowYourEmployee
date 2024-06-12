@@ -19,6 +19,17 @@ Only the admin has the rights to manipulate employee information.Note that there
 
 ![App Screenshot](https://res.cloudinary.com/dtpaznveo/image/upload/v1718200444/xc6qgvcpn0dfiqiwl5kz.png) <br>
 
+## Features
+
+- Simple Employee Management System application.
+- Admin authentication (Login).
+- Real-time employee data fetch.
+- Adding Employee data efficiently.
+- Update any employee .
+- Employee data store persistently.
+- Deletion any employee.
+- Logout for admin after specific task perform.
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutvik-jani-392444255)
