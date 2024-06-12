@@ -15,9 +15,9 @@ Only the admin has the rights to manipulate employee information.Note that there
 
 ![App Screenshot](https://res.cloudinary.com/dtpaznveo/image/upload/v1718108777/employee3_wk16lc.png) <br>
 
-![App Screenshot](https://res.cloudinary.com/dtpaznveo/image/upload/v1718108791/employee5_gnqtx1.png) <br>
+![App Screenshot](https://res.cloudinary.com/dtpaznveo/image/upload/v1718200445/v7yqn0794qwjr1qbyiob.png) <br>
 
-![App Screenshot](https://res.cloudinary.com/dtpaznveo/image/upload/v1718108784/employee6_sltrgc.png) <br>
+![App Screenshot](https://res.cloudinary.com/dtpaznveo/image/upload/v1718200444/xc6qgvcpn0dfiqiwl5kz.png) <br>
 
 ## 🔗 Links
 
