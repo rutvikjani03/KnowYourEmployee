@@ -12,7 +12,7 @@ const Login = () => {
 
   const validCredentials = {
     username: "admin",
-    password: "admin",
+    password: "admin@123",
   };
 
   const handleChange = (e) => {
@@ -60,7 +60,7 @@ const Login = () => {
               value={credentials.username}
               onChange={handleChange}
               autoComplete="off"
-              placeholder="Enter your username : admin"
+              placeholder="Enter your username"
             />
           </div>
           <div className="inputGroup1">
@@ -72,7 +72,7 @@ const Login = () => {
               value={credentials.password}
               onChange={handleChange}
               autoComplete="off"
-              placeholder="Enter your password : admin"
+              placeholder="Enter your password"
             />
           </div>
           {error && (
